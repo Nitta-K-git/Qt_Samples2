@@ -2,6 +2,8 @@
 // https://qiita.com/reqko/items/62bce521ec740e5f1774
 // https://qiita.com/mocobt/items/b43b3fe5f7d4e4eedaa5
 
+// GLSLでQtのライブラリをあまり使わない方法(GLFWと同じようなコードになる)ならばこれがテンプレート
+
 #ifndef GLWIDGET_H
 #define GLWIDGET_H
 
